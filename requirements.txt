@@ -1,0 +1,7 @@
+flask
+langchain
+langchain-pinecone
+langchain-openai
+python-dotenv
+pinecone-client
+sentence-transformers
